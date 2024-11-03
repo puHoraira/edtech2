@@ -1,4 +1,4 @@
-# EdTech
+# edtech
 An educational industry app for handling all the operations for student and teachers. 
 
 Group Members:
@@ -15,3 +15,4 @@ Shraban Karomoker Avi
 Project title: "Not confirmed yet"
 
 Date: 03-11-2024
+
