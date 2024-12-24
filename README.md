@@ -3,13 +3,13 @@ An educational industry app for handling all the operations for student and teac
 
 Group Members:
 
-Md. Abu Horaira
+Md. Abu Horaira (26)
 
-Showkoth Osman Shova
+Showkoth Osman Shova (11)
 
-Md. Adib Ahsan
+Md. Adib Ahsan (60)
 
-Shraban Karomoker Avi
+Shraban Karomoker Avi (44)
 
 
 Project title: "Not confirmed yet"
